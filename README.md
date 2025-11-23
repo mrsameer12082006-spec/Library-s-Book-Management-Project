@@ -101,6 +101,14 @@ cd Library_Manager
 🔹 Step 2: Run the CLI program:
 python cli/main.py
 
+📷output
+1.<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/9349a4d0-fcab-4b05-9b51-0ff06d11393f" />
+2.<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/ca7cc9bf-8b40-4949-9bf8-55f7099afecd" />
+3.<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/a9261d83-d304-41d6-94ba-6d34e214ffc9" />
+
+
+
+
 
 📝 Author
 Sameer Mishra
